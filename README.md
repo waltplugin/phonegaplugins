@@ -1,0 +1,2 @@
+# phonegaplugins
+Plugins phonegap
